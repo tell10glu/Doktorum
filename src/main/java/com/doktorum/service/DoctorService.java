@@ -9,6 +9,7 @@ public class DoctorService {
 	
 	public Doctor selectTest(){
 		Doctor doctor  = new Doctor();
+		
 		return doctor;
 	}
 }
